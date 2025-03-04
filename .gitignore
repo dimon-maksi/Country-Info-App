@@ -93,9 +93,6 @@ dist
 
 # Gatsby files
 .cache/
-# Comment in the public line in if your project uses Gatsby and not Next.js
-# https://nextjs.org/blog/next-9-1#public-directory-support
-# public
 
 # vuepress build output
 .vuepress/dist
@@ -128,3 +125,25 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Tailwind CSS JIT cache
+.tailwindcss-cache/
+
+# NestJS build artifacts
+dist/
+
+# React build artifacts
+build/
+
+# VSCode directories and settings
+.vscode/
+
+# macOS Finder directory attributes
+.DS_Store
+
+# Windows Installer files
+Thumbs.db
+
+# Local development environment files (useful if you use Docker or other services locally)
+docker-compose.override.yml
+docker-compose.local.yml
