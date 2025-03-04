@@ -25,4 +25,4 @@ http://localhost:3000/country/available
 http://localhost:3000/country/info/UA
 
 ## Comments
-The third endpoint is not working. I couldn't set up mongodb, a problem with model dependencies that I couldn't solve. If you have the time and desire, it's on the feature/datasource branch, but the program code is not formatted or cleaned up on it.
+The third endpoint is not working. I couldn't set up mongodb, a problem with model dependencies that I couldn't solve. If you have the time and desire, it's on the feature/datasource branch, but the program code is not formatted or cleaned up.
